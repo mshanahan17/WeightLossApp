@@ -1,0 +1,8 @@
+.list-view .list-cell {
+    -fx-text-fill: white;
+    -fx-background-color: rgba(46,46,46,0.98);
+}
+
+.list-view .list-cell:focused {
+    -fx-text-fill: yellow;
+}
